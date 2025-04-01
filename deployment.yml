@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: Navtej5064-creator/tetrisv2:latest
+        image: navtej5064/tetrisv1:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
